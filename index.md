@@ -7,3 +7,8 @@
 ``` javascript
 var myVar = "Olá, mundo!";
 ```
+
+
+- [ ] one
+- [ ] two
+- [ ] three
